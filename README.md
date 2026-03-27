@@ -42,7 +42,7 @@ Key engineering decisions:
 
 ### Prerequisites
 
-- Java 21+
+- Java 17
 - Docker & Docker Compose
 
 ### 1. Clone the repository
